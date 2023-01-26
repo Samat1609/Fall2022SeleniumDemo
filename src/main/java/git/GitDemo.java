@@ -1,4 +1,4 @@
-package intro.git;
+package git;
 
 public class GitDemo {
 
